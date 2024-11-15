@@ -1,2 +1,3 @@
 rootProject.name = 'homeworks'
+include 'hw02-tests'
 
